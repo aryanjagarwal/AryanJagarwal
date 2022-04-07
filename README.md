@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AryanJagarwal
-- 👀 I’m interested in Android Development and IOS Development
-- 🌱 I’m currently learning Kotlin and Swift
+- 👀 I’m interested in iOS Development and flutter development
+- 🌱 I’m currently learning Flutter and Swift
 - 💞️ I’m looking to collaborate on ...NOTHING FOR NOW
-- 📫 How to reach me ...
+- 📫 How to reach me ...  ajbaggar@gmail.com
 
 <!---
 AryanJagarwal/AryanJagarwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
