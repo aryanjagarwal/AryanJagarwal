@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AryanJagarwal
-- 👀 I’m interested in iOS Development and flutter development
+- 👀 I’m interested in iOS Development.
 - 🌱 I’m currently learning Flutter and Swift
 - 💞️ I’m looking to collaborate on ...NOTHING FOR NOW
 - 📫 How to reach me ...  ajbaggar@gmail.com
