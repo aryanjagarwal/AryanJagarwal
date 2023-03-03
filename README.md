@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryanJagarwal
 - 👀 I’m interested in iOS Development.
-- 🌱 I’m currently learning Flutter and Swift
+- 🌱 I’m currently SwiftUI
 - 💞️ I’m looking to collaborate on ...NOTHING FOR NOW
 - 📫 How to reach me ...  ajbaggar@gmail.com
 
