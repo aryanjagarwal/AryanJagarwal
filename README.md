@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aryan Jagarwal</h1>
 <h3 align="center">A passionate iOS developer from India</h3>
 
-- 🔭 I’m currently working on **Instagram Clone**
+- 🔭 I’m currently working on **Full Stack Web Development**
 
-- 🌱 I’m currently learning **SwiftUI, iOS development**
+- 🌱 I’m currently learning **MERN Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aryanjagarwal](https://github.com/aryanjagarwal)
 
