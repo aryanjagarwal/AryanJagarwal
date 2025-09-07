@@ -1,3 +1,6 @@
+https://github-profile-trophy.vercel.app/?username=aryanjagarwal&theme=lightlight
+
+
 <h1 align="center">Hi 👋, I'm Aryan Jagarwal</h1>
 <h3 align="center">A passionate Full Stack Developer with a strong focus on building impactful web and mobile applications.</h3>
 
